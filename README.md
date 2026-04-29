@@ -139,4 +139,4 @@ df1
 <img width="199" height="526" alt="image" src="https://github.com/user-attachments/assets/ace4a5c6-c9df-45a6-8c0d-552f7c8702bf" />
 
 # Result
-          <<include your Result here>>
+          Hence the data was cleaned , outliers were detected and removed.
